@@ -1,7 +1,7 @@
 import React, { Suspense } from 'react';
 import Alert from 'react-bootstrap/Alert';
 //import UncontrolledExample from './Carousel';
-const UncontrolledExample = React.lazy(() => import('./Carousel'));
+//const UncontrolledExample = React.lazy(() => import('./Carousel'));
 function Home() {
   return (
       <div>
