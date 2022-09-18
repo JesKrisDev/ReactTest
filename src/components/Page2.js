@@ -5,6 +5,7 @@ import ListGroup from 'react-bootstrap/ListGroup';
 export const Page2 = () => {
   return (
     <div>
+      <br></br>
     <ListGroup>
       <ListGroup.Item>Cras justo odio</ListGroup.Item>
       <ListGroup.Item>Dapibus ac facilisis in</ListGroup.Item>

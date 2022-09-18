@@ -7,6 +7,7 @@ function Home() {
       <div>
       <Suspense fallback={<div>Loading...</div>}>
       <>
+      <br></br>
       {[
         'primary',
         'secondary',
